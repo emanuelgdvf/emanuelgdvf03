@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#1ecfa0"/>
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.15"/>
+  <text x="50" y="63"
+    text-anchor="middle"
+    font-family="Trebuchet MS, sans-serif"
+    font-size="38"
+    font-weight="700"
+    letter-spacing="-2">
+    <tspan fill="#0f4a39">I</tspan><tspan fill="#ffffff">D</tspan>
+  </text>
+</svg>
