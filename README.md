@@ -11,7 +11,8 @@ Este é o meu terceiro site, site ultilizado para trabalho escolar.
 - JavaScript
 
 ## 📸 Preview
-<img width="1366" height="768" alt="Captura de Tela (83)" src="https://github.com/user-attachments/assets/d5f0a568-f1ba-4de9-8185-c2396c1e3513" />
+<img width="1366" height="634" alt="def25f5b-48e9-402f-a287-52a6efd99269" src="https://github.com/user-attachments/assets/c635844e-cc06-4887-9cd0-82419c995c22" />
+
 
 
 ## MIT License
