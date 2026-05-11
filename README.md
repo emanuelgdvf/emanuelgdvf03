@@ -1,6 +1,6 @@
 # ID - Inclui-Digital
 
-Este é o meu terceiro site, site ultilizado para trabalho escolar.
+Este é o meu terceiro site, site utilizado para trabalho escolar.
 
 ## 🔗 Acesse
 (local)
